@@ -27,6 +27,7 @@ To do data analysis run:
 * ``Swarm Data Analysis.ipynb``: Jupyter Notebook with the model and commands to recreate the data.
 * ``run.py``: initializes the interactive server.
 * ``model.py``: Contains the model.
+* ``server.py``: Contains the interactive server.
 
 ## Notes
 
