@@ -40,7 +40,7 @@ model_params = {
                                description="Choose how many agents to include in the model"),
     "width": 50,
     "height": 50,
-    "numNeighbors": UserSettableParameter('slider', "Number of Neighbors", 20, 2,20), 
+    "numNeighbors": UserSettableParameter('slider', "Number of Neighbors", 4, 2,20), 
     "swarmType": UserSettableParameter('choice', 'Swarm Type', value='Basic',
                                               choices=['Basic', 'Roots'])
 }
